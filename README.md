@@ -1,4 +1,4 @@
- ## Develop Locally
+## Develop Locally
 
 1. Install dependencies
 
@@ -28,4 +28,4 @@ example by installing and running `http-server`:
     npm install http-server -g
     http-server out
 
-This site was built using Stackbit's "Azimuth" theme with [Next.js]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a53181b0-a375-4981-b4f9-0ab55a4cf428/deploy-status)](https://app.netlify.com/sites/kind-heisenberg-a85572/deploys)
